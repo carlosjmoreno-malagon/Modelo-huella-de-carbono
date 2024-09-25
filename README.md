@@ -4,9 +4,9 @@ Este proyecto utiliza un modelo de **Gradient Boosting** para predecir el consum
 
 ## Estructura del proyecto 
 
-- 'data/' : Contiene los datos utilizados para entrenar y evaluar el modelo (disponible en kaggle)
-- 'models/' : El modelo entrenado esta en formato '.joblib'
-- 'notebooks/' : Notebooks de Jupyter con explicaciones paso a paso del entrenamiento y evaluación del modelo.
+- `data/` : Contiene los datos utilizados para entrenar y evaluar el modelo (disponible en kaggle)
+- `models/` : El modelo entrenado esta en formato '.joblib'
+- `notebooks/` : Notebooks de Jupyter con explicaciones paso a paso del entrenamiento y evaluación del modelo.
 - `scripts/`: Código en Python para entrenar y evaluar el modelo.
 
 ## Requisitos
