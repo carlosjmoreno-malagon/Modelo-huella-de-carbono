@@ -65,5 +65,5 @@ features_importance = gmb.feature_importances_
 print('feautere importans: ')
 print(features_importance)
 
-#joblib.dump(gmb,'bosting.joblib')
+#joblib.dump(gmb,'Boosting.joblib')
 #joblib.dump(prepocesamiento, 'prepocesamiento.joblib')
